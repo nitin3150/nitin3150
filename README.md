@@ -1,7 +1,8 @@
+<div align="center">
 # Hi 👋 I'm Nitin
 **AI/ML Software Engineer | Generative AI/RAG & LLM Enthusiast** 
 **MS in Applied Machine Intelligence @ Northeastern University  | Ex-Software Developer @ OATI**
-
+</div>
 ---
 
 ## 🚀 About Me  
@@ -49,6 +50,7 @@ AI/ML Engineering, Software Engineering roles.
 ## 📊 GitHub Stats  
 
 ![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitin3150&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin3150&layout=compact&theme=radical)
 
 ---
 

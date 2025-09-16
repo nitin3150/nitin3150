@@ -1,16 +1,16 @@
-<div align="center">
-# Hi 👋 I'm Nitin
-**AI/ML Software Engineer | Generative AI/RAG & LLM Enthusiast** 
-**MS in Applied Machine Intelligence @ Northeastern University  | Ex-Software Developer @ OATI**
-</div>
+<h1 align="center">Hi 👋 I'm Nitin</h1>
+<p align="center">
+<b>AI/ML Software Engineer | Generative AI/RAG & LLM Enthusiast</b><br> 
+<b>MS in Applied Machine Intelligence @ Northeastern University  | Ex-Software Developer @ OATI</b>
+</p>
+
 ---
 
 ## 🚀 About Me  
 - 🤖 Passionate about **Machine Learning, Generative AI, and RAG AI practices**  
-- 🛠️ Experienced in designing **end-to-end ML pipelines** and deploying models in production  
-- 📊 Strong background in **Big Data Engineering** with Spark, Hadoop, and ETL pipelines  
-- 🌐 Hands-on with **AWS, Docker, Kubernetes, and CI/CD** for scalable deployments  
-- 🧑‍🏫 Always exploring **cutting-edge research** in Transformers, RAG, and multimodal AI
+- 🛠️ Experienced in designing **end-to-end ML pipelines** and deploying models in production    
+- 🌐 Hands-on with **FastApi, Rect, Nextjs, AWS, Docker, Kubernetes, and CI/CD** for scalable deployments  
+- 🧑‍🏫 Always exploring **cutting-edge AI** in Transformers, RAG, Reinforcement Learning, and multimodal AI
 
 ---
 
@@ -20,16 +20,32 @@
 
 📫 Actively looking for:
 
-AI/ML Engineering, Software Engineering roles.
+- SWE/AI/Data Engineering Internships for Spring 2026 or Full time Roles for Summer 2026
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Languages**: Python · JavaScript · SQL  
-**AI/ML**: PyTorch · TensorFlow · HuggingFace Transformers · scikit-learn · Langchain · LangGraph 
-**Data Engineering**: Apache Spark · Hadoop · Airflow · MongoDB · PostgreSQL · ETL Pipelines  
-**Cloud & DevOps**: AWS (SageMaker, S3, EC2, Lambda) · Docker · Kubernetes · Git · CI/CD  
+**Languages:** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-00ADD8?style=flat&logo=javascript&logoColor=white)
+ 
+**AI/ML:** 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A66C2?style=flat&logo=graphql&logoColor=white)
+
+**Cloud & DevOps:** 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
@@ -48,9 +64,10 @@ AI/ML Engineering, Software Engineering roles.
 ---
 
 ## 📊 GitHub Stats  
-
+<p align="center">
 ![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitin3150&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin3150&layout=compact&theme=radical)
+</p>
 
 ---
 

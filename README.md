@@ -1,6 +1,14 @@
 ## Hi 👋 I'm Nitin
-AI/ML Software Engineer | Transformer & Generative AI Specialist | M.S. in Applied Machine Intelligence 
+**AI/ML Software Engineer | Generative AI/RAG & LLM Enthusiast 
 MS in Applied Machine Intelligence @ Northeastern University  | Ex-Software Developer @ OATI
+
+# 👋 Hi, I'm Nitin
+
+**AI/ML Software Engineer | Responsible AI Advocate | Data Engineering Enthusiast**  
+🎓 MS Applied Machine Intelligence @ Northeastern University (GPA: 3.9)  
+💻 3+ years building scalable ML systems & 12+ months specializing in LLMs/Transformers  
+
+---
 
 🚀 About Me
 

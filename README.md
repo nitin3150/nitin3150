@@ -15,6 +15,8 @@
 
 📄 ([View My Resume](https://drive.google.com/file/d/1_-DA10RUhfj8ZuwoaTWpMYMJjA2N_ukI/view?usp=drive_link))
 
+---
+
 📫 Actively looking for:
 
 AI/ML Engineering, Software Engineering roles.
@@ -33,18 +35,18 @@ AI/ML Engineering, Software Engineering roles.
 ## 🔬 Projects  
 
 ### 🏥 **Progress Note Understanding: Clinical Reasoning with LLMs**  
-- Fine-tuned **BERT & ClinicalBERT** for clinical note classification (Macro F1: 0.78)  
+- Fine-tuned **BERT & ClinicalBERT** for clinical note classification  
 - Applied **knowledge distillation** to shrink model size by 60% while retaining 95% performance  
 - Focused on **responsible AI practices** for healthcare applications 
 
-###🤖 **Healthcare AI Automation Platform**
+### 🤖 **Healthcare AI Automation Platform**
 - Architected **multi-agent AI automation platform** with Python, Transformers & OCR pipelines  
 - Reduced healthcare admin processing time by **70%** & improved claim accuracy by **85%**  
 - Built **document intelligence workflows** cutting review cycles from 48 → 6 hours
 
 ---
 
-## 📊 GitHub & LeetCode Stats  
+## 📊 GitHub Stats  
 
 ![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitin3150&show_icons=true&theme=radical)  
 

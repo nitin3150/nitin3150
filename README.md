@@ -62,13 +62,14 @@
 - Built **document intelligence workflows** cutting review cycles from 48 → 6 hours
 
 ---
-
+<!--
 ## 📊 GitHub Stats  
 
 ![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitin3150&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin3150&layout=compact&theme=radical)
 
 ---
+-->
 
 ## 🤝 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/nitin-k-goyal)  

@@ -72,7 +72,7 @@
 -->
 
 ## 🤝 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/nitin-k-goyal)  
+- [LinkedIn](https://www.linkedin.com/in/nitin-k-g)  
 - 📧 Email: goyal.niti@northeastern.edu 
 
 ---

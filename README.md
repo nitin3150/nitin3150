@@ -20,7 +20,7 @@
 
 📫 Actively looking for:
 
-- SWE/AI/Data Engineering Internships for Spring 2026 or Full time Roles for Summer 2026
+- SWE/AI/Data Engineering Full time Roles
 
 ---
 
@@ -73,7 +73,7 @@
 
 ## 🤝 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/nitin-k-g)  
-- 📧 Email: goyal.niti@northeastern.edu 
+- 📧 Email: nitingoyal3150@gmail.com 
 
 ---
 

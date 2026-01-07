@@ -14,7 +14,7 @@
 
 ---
 
-📄 ([View My Resume]([https://drive.google.com/file/d/1_-DA10RUhfj8ZuwoaTWpMYMJjA2N_ukI/view?usp=drive_link](https://drive.google.com/file/d/15IKbcXn0ujQWfraK215T3q3aUmV3JDNz/view?usp=sharing)))
+📄 ([View My Resume]((https://drive.google.com/file/d/15IKbcXn0ujQWfraK215T3q3aUmV3JDNz/view?usp=sharing)))
 
 ---
 

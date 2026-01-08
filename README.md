@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Nitin</h1>
 <p align="center">
 <b>AI/ML Software Engineer | Generative AI/RAG & LLM Enthusiast</b><br> 
-<b>MS in Applied Machine Intelligence @ Northeastern University  | Ex-Software Developer @ OATI</b>
+<b>MS in Applied AI @ Northeastern University  | Ex-Software Developer @ OATI</b>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 - 🤖 Passionate about **Machine Learning, Generative AI, and RAG AI practices**  
 - 🛠️ Experienced in designing **end-to-end ML pipelines** and deploying models in production    
-- 🌐 Hands-on with **FastApi, Rect, Nextjs, AWS, Docker, Kubernetes, and CI/CD** for scalable deployments  
+- 🌐 Hands-on with **FastApi, React, Nextjs, AWS, Docker, Kubernetes, and CI/CD** for scalable deployments  
 - 🧑‍🏫 Always exploring **cutting-edge AI** in Transformers, RAG, Reinforcement Learning, and multimodal AI
 
 ---
